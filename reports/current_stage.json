@@ -29,6 +29,6 @@
   "current_campaign_actor_updates": 0,
   "current_campaign_blind_episodes": 0,
   "collection_counts_are_not_actor_improvement_claims": true,
-  "raw_assets_publication": "not_published_pending_explicit_authorization",
+  "raw_assets_publication": "private_not_for_publication",
   "simulation_only": true
 }
