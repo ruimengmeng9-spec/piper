@@ -1,0 +1,32 @@
+{
+  "stage": "accepted_signal_ema_20261016",
+  "accepted_bundle_sha256": "644b34fba40965f57d9bb016c5f4e723ae96a168e64d0385b186f9ed68bc6f55",
+  "tests": [
+    {
+      "condition": "14mm_fixed",
+      "episodes": 512,
+      "successes": 508,
+      "over100N": 0
+    },
+    {
+      "condition": "14mm_random",
+      "episodes": 512,
+      "successes": 511,
+      "over100N": 0
+    },
+    {
+      "condition": "16mm_original",
+      "episodes": 512,
+      "successes": 511,
+      "over100N": 0
+    },
+    {
+      "condition": "16mm_payload",
+      "episodes": 512,
+      "successes": 510,
+      "over100N": 0
+    }
+  ],
+  "simulation_only": true,
+  "original_assets_and_configuration_required_for_reproduction": true
+}

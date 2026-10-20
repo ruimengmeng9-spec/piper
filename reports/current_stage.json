@@ -1,0 +1,34 @@
+{
+  "snapshot_date_Asia_Shanghai": "2026-10-20",
+  "snapshot_created_utc": "2026-10-20T10:51:10.009637+00:00",
+  "source_sha256": "c97fc79e1043cb350a7c3a3301870f98db37aed3ee303bded05919a871c2aa75",
+  "goal_training_episodes": 3072,
+  "complete_physical_episodes": 1280,
+  "registered_dual_verified_episodes": 1152,
+  "server_archived_pending_independent_verification_episodes": 128,
+  "current_stage": "expanded24_critic_data_collection",
+  "bank_A": {
+    "closed": true,
+    "episodes": 1024,
+    "successes": 436,
+    "force_aborts": 13
+  },
+  "bank_B_registered": {
+    "episodes": 128,
+    "successes": 60,
+    "force_aborts": 1
+  },
+  "bank_B_server_only_latest": {
+    "episodes": 128,
+    "successes": 54,
+    "force_aborts": 0,
+    "seed": 2829
+  },
+  "bank_C_started": false,
+  "current_campaign_real_fit_attempts": 0,
+  "current_campaign_actor_updates": 0,
+  "current_campaign_blind_episodes": 0,
+  "collection_counts_are_not_actor_improvement_claims": true,
+  "raw_assets_publication": "not_published_pending_explicit_authorization",
+  "simulation_only": true
+}

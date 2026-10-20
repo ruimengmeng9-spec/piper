@@ -1,0 +1,24 @@
+# Runtime outputs and separately controlled scientific assets
+__pycache__/
+*.py[cod]
+.venv/
+logs/
+cache/
+vendor/
+assets/
+*.pt
+*.npz
+*.npy
+*.tar.gz
+*.zip
+*.step
+*.STEP
+*.usdc
+*.mp4
+*.gif
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
